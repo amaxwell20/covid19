@@ -5,4 +5,4 @@ Parsing through the various news and media sources for localized COVID-19 Data c
 
 This data is current as of 6/24/2020.
 
-<iframe src= "https://public.tableau.com/shared/M6TB4R9SB?:display_count=y&:origin=viz_share_link:embed=true:showVizHome=no" height = "1000" width = "350"></iframe>
+<iframe src= "https://public.tableau.com/views/CommunityCovidTableau_v2/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link:embed=true:showVizHome=no" height = "1000" width = "350"></iframe>
