@@ -14,4 +14,4 @@ This data is current as of 7/2/2020.
 <p>&nbsp;</p>
 
 #### Data and Methods
-Covid data was sourced from USA Facts [USA Facts Data](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) daily, compiled using python, and presented in Tableau. Per capita cases and deaths were used to compare the pandemic's impact on each county. Population estimates were collected from the 2018 American Community Survey [ACS Data](https://www.census.gov/programs-surveys/acs). 
+Covid data was sourced from USA Facts daily ([USA Facts Data](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)), compiled using python, and presented in Tableau. Per capita cases and deaths were used to compare the pandemic's impact on each county. Population estimates were collected from the 2018 American Community Survey ([ACS Data](https://www.census.gov/programs-surveys/acs)). 
