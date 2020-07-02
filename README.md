@@ -3,7 +3,7 @@
 
 Parsing through the various news and media sources for localized COVID-19 Data can be very difficult if one does not know where to look. The goal of this site is to provide simple datapoints and figures that the everyday individual can use to understand how the COVID-19 pandemic is affecting their community. The graphic below shows statistics on cases and deaths by county. We divide cases and deaths into totals (all during the pandemic) and recent (in the past 2 weeks).  
 
-This data is current as of 6/29/2020.
+This data is current as of 7/2/2020.
 
 <body>
   <style>
