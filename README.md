@@ -3,7 +3,7 @@
 
 Parsing through the various news and media sources for localized COVID-19 Data can be very difficult if one does not know where to look. The goal of this site is to provide simple datapoints and figures that the everyday individual can use to understand how the COVID-19 pandemic is affecting their community. This data is current as of 7/6/2020.
 
-####
+#### Objective COVID-19 Measures by County
 In the graphic below, we divide cases and deaths into totals (all during the pandemic) and recent (in the past 2 weeks). This division allows you to see the overall impact of the virus on your county as well as the current condition in your county. For reference:
 - Each row represents a different COVID-19 measure, and each column shows a different perspective on that measure. 
 - The first column shows the county's rate per 100k residents. The second and third column rank the county among all counties in the state and the country, respectively. 
