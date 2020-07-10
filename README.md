@@ -1,7 +1,7 @@
 ## Objective COVID-19 Data by U.S. County
 #### By Andrew Maxwell
 
-Parsing through the various news and media sources for localized COVID-19 Data can be very difficult if one does not know where to look. The goal of this site is to provide simple datapoints and figures that the everyday individual can use to understand how the COVID-19 pandemic is affecting their community. This data is current as of 7/6/2020.
+Parsing through the various news and media sources for localized COVID-19 Data can be very difficult if one does not know where to look. The goal of this site is to provide simple datapoints and figures that the everyday individual can use to understand how the COVID-19 pandemic is affecting their community. This data is current as of 7/10/2020.
 
 #### Objective COVID-19 Measures by County
 In the graphic below, we divide cases and deaths into totals (all during the pandemic) and recent (in the past 2 weeks). This division allows you to see the overall impact of the virus on your county as well as the current condition in your county. For reference:
