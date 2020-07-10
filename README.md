@@ -66,7 +66,7 @@ In the following map, we put the above data in a visual perspective. The image b
 
 The tool below can be used to observe this transition across the country or in one particular state. You can click on any county to see the number of new cases in that county. Brighter colors represent 'hot spots' of new cases while cooler colored areas have less new cases. Some startling views to explore:
 - The initial acceleration of cases in New York followed by a prolonged 'cooling off' period. Currently, there are no counties in NY with over 100 new cases per day. 
-- The emergence of new cases in the South starting in late May. Population centers such as Miami, Dallas, and Atlanta appear bright red. Miami-Dade county reached over 2000 new cases per day in early July. 
+- The emergence of new cases in the South starting in late May. Population centers such as Miami, Dallas, and Atlanta appear bright red. Miami-Dade county reached over 2000 new cases per day in early July. **Miami's new cases on July 8th were double the number of new cases in England and France, combined.**
 - The consistent number of new cases in Southern California. Unlike New York, SoCal case growth has not leveled off, and unlike Texas and Florida, cases have been growing since early April. This region is especially hard hit by COVID-19. 
 
 ![image](https://user-images.githubusercontent.com/67279800/87197032-38c67780-c2c8-11ea-9fb9-9a341a22f3b6.png)
