@@ -21,6 +21,8 @@ In the graphic below, we divide cases and deaths into totals (all during the pan
 #### Modeling the COVID-19 in Crowds of Varying Size
 To better understand the gravity of the ongoing pandemic, we translate our per-capita case numbers into a probability of at least 1 person having COVID-19 in crowds of varying sizes. Using a model developed by Georgia Tech and Stanford researchers ([Crowd Modeling](https://covid19risk.biosci.gatech.edu/)), we can estimate the potential for you to encounter someone with the virus in your community. While this model does not describe the potential for transmission (which varies based on adherence to social distancing principles), it does provide community members with an idea of what they may encounter by going to a dinner party, a house party, or a political rally.
 
+We base this model off of reported cases, which undercounts the true number of cases. The CDC estimates the actual number of cases is 10-12x as many as the reported number ([CDC - Actual Cases](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/commercial-lab-surveys.html)). Our model does not account for the undercount. When viewing the probabilities for your selected county, keep in mind the actual probability may be as much as 10x higher. 
+
 <body>
   <style>
     html
