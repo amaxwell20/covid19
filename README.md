@@ -53,6 +53,8 @@ We base this model off of reported cases, which undercounts the true number of c
 
 
 #### Mapping new Coronavirus cases over time
+![image](https://user-images.githubusercontent.com/67279800/87197032-38c67780-c2c8-11ea-9fb9-9a341a22f3b6.png)
+
 In the following map, we put the above data in a visual perspective. 
 <body>
   <style>
