@@ -16,7 +16,7 @@ Parsing through the various news and media sources for localized COVID-19 Data c
 - How do the cases in your county translate to real-world risk of coming in contact with the virus?
 - How is the virus changing in your community and across the country?
 
-Our data is current as of 7/10/2020.
+Our data is current as of 7/13/2020.
 
 #### Objective COVID-19 measures by county
 In the graphic below, we divide cases and deaths into totals (all during the pandemic) and recent (in the past 2 weeks). This division allows you to see the overall impact of the virus on your county as well as the current condition in your county. For reference:
