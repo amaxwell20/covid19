@@ -7,6 +7,8 @@
 
   gtag('config', 'UA-172377354-1');
 </script>
+Title: Objective Coronavirus Data
+![image](https://user-images.githubusercontent.com/67279800/87197032-38c67780-c2c8-11ea-9fb9-9a341a22f3b6.png)
 
 ## Objective COVID-19 data by U.S. county
 #### By Andrew Maxwell
