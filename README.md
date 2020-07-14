@@ -9,8 +9,7 @@
 </script>
 
 .page-header{
-color:#ffff;
-background-color:#80B5E9;
+color:#80B5E9
 }
 
 ## Objective COVID-19 data by U.S. county
