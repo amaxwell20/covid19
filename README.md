@@ -8,7 +8,7 @@
   gtag('config', 'UA-172377354-1');
 </script>
 
-![image](https://user-images.githubusercontent.com/67279800/87460001-2905a680-c5da-11ea-993c-d983ca30972a.png)
+![image](https://user-images.githubusercontent.com/67279800/87460136-5fdbbc80-c5da-11ea-9731-4114f1f8354b.png)
 
 ## Objective COVID-19 data by U.S. county
 #### By Andrew Maxwell
