@@ -17,9 +17,9 @@ Parsing through the various news and media sources for localized COVID-19 Data c
 - How is the virus changing in your community and across the country?
 
 Jump to:
-- [Objective COVID-19 Measures by County](#objective covid-19 measures by county)
-- [Modeling COVID-19 in crowds of varying size](#Modeling COVID-19 in crowds of varying size)
-- [New Coronavirus cases over time for all US counties](# Displaying new Coronavirus cases over time for all US counties)
+- [Objective COVID-19 Measures by County](#objective-covid-19-measures-by-county)
+- [Modeling COVID-19 in crowds of varying size](#modeling-covid-19-in-crowds-of-varying size)
+- [New Coronavirus cases over time for all US counties](#displaying-new-coronavirus-cases-over-time-for-all-US-counties)
 - [Map of new Coronavirus cases over time](# Mapping new Coronavirus cases over time)
 - [Conclusions](#conclusions)
 
