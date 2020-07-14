@@ -13,7 +13,7 @@
 ## Objective COVID-19 data by U.S. county
 #### By Andrew Maxwell
 
-Parsing through the various news and media sources for localized COVID-19 Data can be very difficult if one does not know where to look. The goal of this site is to provide simple datapoints and figures that the everyday individual can use to understand how the COVID-19 pandemic is affecting their community. We provide a variety of different perspectives on up-to-date Coronavirus data and attempt to provide a community-level understanding of this global pandemic. Below you can find:
+Parsing through the various news and media sources for localized COVID-19 Data can be very difficult if one does not know where to look. The goal of this site is to provide simple datapoints and figures that the everyday individual can use to understand how the COVID-19 pandemic is affecting their community. We provide a variety of different perspectives on up-to-date Coronavirus data and attempt to create a community-level understanding of this global pandemic. Below you can find:
 - How does your county's crisis compare to others in your state and across the country?
 - How do the cases in your county translate to real-world risk of coming in contact with the virus?
 - How is the virus changing in your community and across the country?
@@ -28,7 +28,7 @@ Parsing through the various news and media sources for localized COVID-19 Data c
 Our data is current as of 7/14/2020.
 
 #### Objective COVID-19 measures by county
-In the graphic below, we divide cases and deaths into totals (all during the pandemic) and recent (in the past 2 weeks). This division allows you to see the overall impact of the virus on your county as well as the current condition in your county. For reference:
+In the graphic below, we divide cases and deaths into total cases (all during the pandemic) and recent cases(all in the past 2 weeks). This division allows you to see the overall impact of the virus on your county as well as the current condition in your county. For reference:
 - Each row represents a different COVID-19 measure, and each column shows a different perspective on that measure. 
 - The first column shows the county's rate per 100k residents. The second and third column rank the county among all counties in the state and the country, respectively. 
 - Below each measure, you can see where your county was 1-week ago and 1-month ago. In this way, you can track county performance over time. 
@@ -43,7 +43,7 @@ In the graphic below, we divide cases and deaths into totals (all during the pan
 
 
 #### Modeling COVID-19 in crowds of varying size
-To better understand the gravity of the ongoing pandemic, we translate our per-capita case numbers into a probability of at least 1 person having COVID-19 in crowds of varying sizes. Using a model developed by Georgia Tech and Stanford researchers ([Crowd Modeling](https://covid19risk.biosci.gatech.edu/)), we can estimate the potential for you to encounter someone with the virus in your community. While this model does not describe the potential for transmission (which varies based on adherence to social distancing principles), it does provide community members with an idea of what they may encounter by going to a dinner party, a house party, or a political rally.
+To better understand the gravity of the ongoing pandemic, we translate our per-capita case numbers into a probability of at least 1 person having COVID-19 in crowds of varying sizes. Using a model developed by Georgia Tech and Stanford researchers ([Crowd Modeling](https://covid19risk.biosci.gatech.edu/)), we can estimate the potential for you to encounter someone with the virus in your community. While this model does not describe the potential for transmission (which varies based on adherence to social distancing principles), it does provide community members with an idea of what they may encounter by going to a dinner with friends, a house party, or a political rally.
 
 We base this model off of reported cases, which undercounts the true number of cases. The CDC estimates the actual number of cases is 10-12x as many as the reported number ([CDC - Actual Cases](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/commercial-lab-surveys.html)). Our model does not account for the undercount. When viewing the probabilities for your selected county, keep in mind the actual probability may be as much as 10x higher. 
 
@@ -71,12 +71,12 @@ It is important to note that at the state and county level, there have been some
 
 
 #### Mapping new Coronavirus cases over time
-In the following map, we put the above data in a visual perspective. The image below clearly shows the transition COVID-19 has made from predominantly affecting the Northeast (New York, New Jersey, Massachusetts, etc.) to now mostly impacting the Southeast and Southwest. This transition is mostly due to the differing responses to the pandemic in Northern and Southern states. 
+In the following map, we change the perspective on the data above. The image below clearly shows the transition COVID-19 has made from predominantly affecting the Northeast (New York, New Jersey, Massachusetts, etc.) to now mostly impacting the Southeast and Southwest. This transition is mostly due to the differing responses to the pandemic in Northern and Southern states. 
 
 The tool below can be used to observe this transition across the country or in one particular state. You can click on any county to see the number of new cases in that county. Brighter colors represent 'hot spots' of new cases while cooler colored areas have less new cases. Some startling views to explore:
 - The initial acceleration of cases in New York followed by a prolonged 'cooling off' period. Currently, there are no counties in NY with over 100 new cases per day. 
-- The emergence of new cases in the South starting in late May. Population centers such as Miami, Dallas, and Atlanta appear bright red. Miami-Dade county reached over 2000 new cases per day in early July. **Miami's new cases on July 8th were double the number of new cases in England and France, combined.**
-- The consistent number of new cases in Southern California. Unlike New York, SoCal case growth has not leveled off, and unlike Texas and Florida, cases have been growing since early April. This region is especially hard hit by COVID-19. 
+- The emergence of new cases in the South starting in late May. Population centers such as Miami, Dallas, and Atlanta appear bright red. Miami-Dade county reached over 2000 new cases per day in early July. **Miami's new cases on July 8th were double the number of new cases in the United Kingdom and France, combined.**
+- The consistent number of new cases in Southern California. Unlike New York, SoCal case growth has not leveled off, and unlike Texas and Florida, cases have been growing since late march. This region is especially hard hit by COVID-19. 
 
 ![image](https://user-images.githubusercontent.com/67279800/87197032-38c67780-c2c8-11ea-9fb9-9a341a22f3b6.png)
 
@@ -91,9 +91,12 @@ The tool below can be used to observe this transition across the country or in o
 #### Conclusions
 The differing responses to the novel Coronavirus in the US have inhibited our country from quelling the virus. While certain states attempted to crush the virus through stay-at-home orders and strict reopening strategies, others likely opened too early and are now facing the consequences. The same scarcity of ICU beds and ventilators that plagued New York in the spring is now afflicting parts of Arizona, Florida, and California. 
 
-The media has made understanding this virus nearly impossible for the average American. Politicizing this virus has cost our country precious lives and exacerbated the current economic strife. Social distancing and wearing masks are not political subjects. They are simple measures that everyone can and should take to save lives and return our communites to normalcy. We hope this site has armed you with the facts you need to adjust your lives and the lives of those around you. Simply put, beating this virus requires collective agreement in our communities, our states, and across the nation. 
+The media has made understanding this virus nearly impossible for the average American. Politicizing this virus has cost our country precious lives and exacerbated the current economic downturn. Social distancing and wearing masks are not political subjects. They are simple measures that everyone can and should take to save lives and return our communites to normalcy. We hope this site has armed you with the facts you need to adjust your lives and the lives of those around you. Simply put, beating this virus requires collective agreement in our communities, our states, and across the nation. 
 
-#### Data and Methods
+#### Data and methods
 While this data is updated frequently, there is significant lag time associated with COVID-19 reporting. A county that appears calm today may see spikes in the coming weeks if proper social distancing is not adhered to ([CDC - Social Distancing](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html)). 
 
 Covid data was sourced from USA Facts daily ([USA Facts Data](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)), compiled using python, and presented in Tableau. Per capita cases and deaths were used to compare the pandemic's impact on each county. Population estimates were collected from the 2018 American Community Survey ([ACS Data](https://www.census.gov/programs-surveys/acs)). 
+
+#### About the author
+Andrew Maxwell is a 2020 graduate from UNC with a B.S. in public health from Gillings. Andrew currently works as a research assistant for Cecil G. Sheps Center for Health Services Research. In October 2020, he will start work as an associate at Boston Consulting Group (BCG). All the work here is his own and does not reflect the opinions of any associated organizations. 
