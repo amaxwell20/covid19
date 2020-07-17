@@ -25,7 +25,7 @@ Parsing through the various news and media sources for localized COVID-19 Data c
 - [Map of new Coronavirus cases over time](#mapping-new-coronavirus-cases-over-time)
 - [Conclusions](#conclusions)
 
-Our data is current as of 7/16/2020.
+Our data is current as of 7/17/2020.
 
 #### Objective COVID-19 measures by county
 In the graphic below, we divide cases and deaths into total cases (all during the pandemic) and recent cases(all in the past 2 weeks). This division allows you to see the overall impact of the virus on your county as well as the current condition in your county. For reference:
